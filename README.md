@@ -34,7 +34,7 @@ This repository contains the necessary scripts that enables a DHCP server in Ubu
 
 Then, execute `setup.bash` with sudo
 
-    sudo setup.bash
+    sudo bash setup.bash
 
 ## Validation
 
